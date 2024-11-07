@@ -27,13 +27,5 @@ public class LearnSet {
 
         set.clear();                               // clear the set
          System.out.println(set);
-
-
-
-
-
-
-
-
     }
 }
